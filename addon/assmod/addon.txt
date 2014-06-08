@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" 		"Assmod 2.3 Beta"
+	"author_name"	 "author"
+	"info" 		"A simplistic administration mod"
+}

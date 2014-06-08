@@ -1,0 +1,63 @@
+//Regular Cars
+a ATV 		15,000 		2,500
+b Willard	35,000		3,000
+c Mini Cooper	50,000		3,500
+d BMW		60,000		4,000
+e Golf		65,000		4,500
+f Speedo	65,000		4,500
+g Lincoln MK4	65,000		5,000
+h Hakumai	70,000		4,500
+i Escalade	80,000		5,250
+j Barchetta     85,000		5,500
+k Hummer	95,000		6,000
+l Yankee	100,000		5,000
+m Shelby	105,000		6,500
+n Spyder	115,000		7,000
+o Corvette	125,000		7,500
+p Bentley	135,000		7,750
+q Lamborghini	145,000		8,000
+r Lotus		200,000		8,500
+s Murcielago	350,000		9,000
+t Stallion	300,000		9,500
+u Prius  60,000 5,000
+! ChevelleSS 75,000 6,500
+
+
+
+//VIP
+A Huntley	95,000		6,250
+B Mule		110,000		7,000
+C Oracle	160,000		7,000
+D charger	175,000  	8,250
+E Vanquish	300,000		12,000
+F DiabloVT	450,000		11,000
+G F50		1,200,000	15,000
+H RX8	150,000		7,500
+I Suburu	130,000		7,200
+
+
+
+//GOLD
+L Cayenne	120,000		7,500
+M Mercedes	950,000		10,000
+N Veyron	2,200,000	20,000
+O Pickup	95,000		6,250
+P Supra		300,000		7,500
+Q Monster_B.	350,000		8,500
+R AUDI		250,000		7,500
+S 2006 Shelby	100,000  	7,500
+T Gallardo 1,000,000 8,500
+U Aston DBS	1,500,000  	10,000
+V MotorCycle	 20,000		5,000
+
+
+
+
+//Gov't Cars
+- Bus		0	0
+% Tow Truck	0	0
+v Stretch	0	0
+w Ambulance 	0 	0
+x SWAT Van	0	0
+y Fire Truck	0	0
+z Police Car	0	0
